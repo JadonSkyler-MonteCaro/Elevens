@@ -1,5 +1,3 @@
-package Activity07;
-
 import java.util.List;
 import java.util.ArrayList;
 
@@ -96,7 +94,7 @@ public class ElevensBoard {
 	/**
 	 * Deal a card to the kth position in this board.
 	 * If the deck is empty, the kth card is set to null.
-	 * @paam k the index of the card to be dealt.
+	 * @param k the index of the card to be dealt.
 	 */
 	public void deal(int k) {
 		cards[k] = deck.deal();
