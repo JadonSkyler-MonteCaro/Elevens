@@ -1,5 +1,3 @@
-package Activity10;
-
 /**
  * Card.java
  *
